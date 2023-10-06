@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118872027371",
+    "project_id": "hackathon-app-9716f",
+    "storage_bucket": "hackathon-app-9716f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118872027371:android:ec22ad52cd192eeec6ceae",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZwu0HN61tW9dzImjAIcSDQ-T1GTAY8Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
